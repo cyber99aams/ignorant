@@ -19,8 +19,8 @@ ignorant allows you to check if a phone number is used on different sites like s
 ### With Github
 
 ```bash
-git clone https://github.com/megadose/ignorant.git
-cd ignorant/
+git clone https://github.com/cyber99aams/ignorant.git
+cd ignorant
 python3 setup.py install
 ```
 
